@@ -1,6 +1,6 @@
 # RANDOM
 alias composer="composer.phar"
-alias rm="trash"
+#alias rm="trash"
 alias twitter="rainbowstream"
 
 # GIT

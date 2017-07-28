@@ -1,4 +1,4 @@
 
-source $HOME/Projects/scripts/init/aliases.sh
-source $HOME/Projects/scripts/init/exports.sh
-source $HOME/Projects/scripts/init/scripts/z.sh
+source $HOME/bin/init/aliases.sh
+source $HOME/bin/init/exports.sh
+source $HOME/bin/init/scripts/z.sh
