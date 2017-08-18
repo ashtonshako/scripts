@@ -1,7 +1,5 @@
-# RANDOM
+# COMPOSER
 alias composer="composer.phar"
-#alias rm="trash"
-alias twitter="rainbowstream"
 
 # GIT
 alias g="git"
@@ -11,3 +9,10 @@ alias gc="git commit -m"
 alias gs="git status"
 alias gl1="git log --oneline"
 alias gl="git log"
+alias gl1g="git log --oneline --graph"
+alias gcom="git checkout master"
+alias gco="git checkout"
+
+# TDO-TXT
+alias todo="todo.sh"
+alias t="todo.sh"
