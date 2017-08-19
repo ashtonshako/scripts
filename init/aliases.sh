@@ -16,3 +16,6 @@ alias gco="git checkout"
 # TDO-TXT
 alias todo="todo.sh"
 alias t="todo.sh"
+
+# TRASH
+alias rm='echo "This is not the command you are looking for."; false'
