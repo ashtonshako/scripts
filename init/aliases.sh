@@ -16,7 +16,10 @@ alias gco="git checkout"
 # TDO-TXT
 alias todo="todo.sh"
 alias t="todo.sh"
+
+# Typical Laziness Part
 alias a="atom"
+alias c="clear"
 
 # TRASH
 # sudo apt-get install trash-cli (to install trash. Had a problem rem this so I though I should add it here incase i forget again)
