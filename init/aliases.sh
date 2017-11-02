@@ -19,4 +19,5 @@ alias t="todo.sh"
 alias a="atom"
 
 # TRASH
+# sudo apt-get install trash-cli (to install trash. Had a problem rem this so I though I should add it here incase i forget again)
 alias rm='echo "This is not the command you are looking for."; false'
