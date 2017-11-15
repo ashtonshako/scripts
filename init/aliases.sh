@@ -20,6 +20,7 @@ alias t="todo.sh"
 # Typical Laziness Part
 alias a="atom"
 alias c="clear"
+alias e="exit"
 
 # TRASH
 # sudo apt-get install trash-cli (to install trash. Had a problem rem this so I though I should add it here incase i forget again)
