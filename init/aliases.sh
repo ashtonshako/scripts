@@ -22,6 +22,7 @@ alias c="clear"
 alias e="exit"
 
 # Programming and Making work easy
+alias a="atom"
 pserve() {
    # Serve php files to the browser with this function. Provide a port as a parameter. example 'pserve 8080'
     php -S localhost:"$1"
