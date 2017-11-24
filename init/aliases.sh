@@ -18,9 +18,14 @@ alias todo="todo.sh"
 alias t="todo.sh"
 
 # Typical Laziness Part
-alias a="atom"
 alias c="clear"
 alias e="exit"
+
+# Programming and Making work easy
+pserve() {
+   # Serve php files to the browser with this function. Provide a port as a parameter. example 'pserve 8080'
+    php -S localhost:"$1"
+}
 
 # TRASH
 # sudo apt-get install trash-cli (to install trash. Had a problem rem this so I though I should add it here incase i forget again)
