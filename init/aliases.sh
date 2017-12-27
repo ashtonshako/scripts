@@ -13,6 +13,16 @@ alias gl1g="git log --oneline --graph"
 alias gcom="git checkout master"
 alias gco="git checkout"
 
+# list
+alias l="ls"
+alias ll="ls -l"
+alias la="ls -a"
+alias lla="ls -al"
+
+# yarn
+alias y="yarn"
+alias ya="yarn add"
+
 # TDO-TXT
 alias todo="todo.sh"
 alias t="todo.sh"
