@@ -12,6 +12,8 @@ alias gl="git log"
 alias gl1g="git log --oneline --graph"
 alias gcom="git checkout master"
 alias gco="git checkout"
+alias gphm="git push heroku master"
+alias gpom="git push origin master"
 
 # list
 alias l="ls"
