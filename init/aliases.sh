@@ -24,6 +24,9 @@ alias lla="ls -al"
 # yarn
 alias y="yarn"
 alias ya="yarn add"
+alias yao="yarn add --offline"
+alias yaie="yarn add --ignore-engines"
+alias yaoie="yarn add --offline --ignore-engines"
 
 # TDO-TXT
 alias todo="todo.sh"
