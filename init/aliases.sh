@@ -33,11 +33,14 @@ alias todo="todo.sh"
 alias t="todo.sh"
 
 # Typical Laziness Part
-alias c="clear"
+alias c="clr"
 alias e="exit"
 
 # Programming and Making work easy
 alias a="atom"
+alias c="code"
+alias mongostart="sudo service mongod start"
+alias mongostatus="sudo service mongod status"
 pserve() {
    # Serve php files to the browser with this function. Provide a port as a parameter. example 'pserve 8080'
     php -S localhost:"$1"
