@@ -48,4 +48,4 @@ pserve() {
 
 # TRASH
 # sudo apt-get install trash-cli (to install trash. Had a problem rem this so I though I should add it here incase i forget again)
-alias rm='echo "This is not the command you are looking for."; false'
+alias rm='echo "Not the command you are looking for. sudo apt install trash-cli.Use trash command"; false'
