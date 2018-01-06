@@ -33,7 +33,7 @@ alias todo="todo.sh"
 alias t="todo.sh"
 
 # Typical Laziness Part
-alias c="clr"
+alias clr="clear"
 alias e="exit"
 
 # Programming and Making work easy
