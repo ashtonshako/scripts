@@ -14,6 +14,7 @@ alias gcom="git checkout master"
 alias gco="git checkout"
 alias gphm="git push heroku master"
 alias gpom="git push origin master"
+alias git-standup="git standup -m 3"
 
 # list
 alias l="ls"
@@ -33,10 +34,14 @@ alias todo="todo.sh"
 alias t="todo.sh"
 
 # Typical Laziness Part
-alias clr="clear"
+alias clear='echo "use ctrl-l until you can nolonger see this"'
+alias clr='echo "use ctl-l until you can nolonger see this"'
 alias e="exit"
+alias workspace="cd ~/chaos"
 
 # Programming and Making work easy
+alias vim="nvim"
+alias n="nvim"
 alias a="atom"
 alias c="code"
 alias mongostart="sudo service mongod start"
