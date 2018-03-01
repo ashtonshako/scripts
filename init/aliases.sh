@@ -37,12 +37,11 @@ alias t="todo.sh"
 alias clear='echo "use ctrl-l until you can nolonger see this"'
 alias clr='echo "use ctl-l until you can nolonger see this"'
 alias e="exit"
-alias workspace="cd ~/chaos"
+alias workspace="cd ~/agency"
 
 # Programming and Making work easy
 alias vim="nvim"
 alias n="nvim"
-alias a="atom"
 alias c="code"
 alias mongostart="sudo service mongod start"
 alias mongostatus="sudo service mongod status"

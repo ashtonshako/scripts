@@ -1,7 +1,7 @@
 #!/bin/bash
 
-source $HOME/Projects/scripts/init/functions/messages.sh
-source $HOME/Projects/scripts/init/functions/confirm.sh
+source $HOME/bin/init/functions/messages.sh
+source $HOME/bin/init/functions/confirm.sh
 
 seek_confirmation "Do you want to print a success message?"
 if is_confirmed; then
