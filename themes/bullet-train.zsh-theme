@@ -18,10 +18,10 @@ VIRTUAL_ENV_DISABLE_PROMPT=true
 # Define order and content of prompt
 if [ ! -n "${BULLETTRAIN_PROMPT_ORDER+1}" ]; then
   BULLETTRAIN_PROMPT_ORDER=(
-    time
+    # time
     status
     custom
-    context
+    # context
     dir
     screen
     perl
