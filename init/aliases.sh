@@ -4,6 +4,7 @@ alias composer="composer.phar"
 # GIT
 alias g="git"
 alias ga="git add"
+alias gi="git init"
 alias gaa="git add --all"
 alias gc="git commit -m"
 alias gs="git status"
