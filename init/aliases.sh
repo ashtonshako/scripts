@@ -34,6 +34,9 @@ alias yaoie="yarn add --offline --ignore-engines"
 alias todo="todo.sh"
 alias t="todo.sh"
 
+# JOURNAL
+alias j="journ"
+
 # Typical Laziness Part
 alias clear='echo "use ctrl-l until you can nolonger see this"'
 alias clr='echo "use ctl-l until you can nolonger see this"'
