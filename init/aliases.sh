@@ -47,6 +47,7 @@ alias workspace="cd ~/agency"
 alias vim="nvim"
 alias n="nvim"
 alias c="code"
+alias mountwindows="sudo mount -t ntfs -o nls=utf8,umask=0222 /dev/sda2 /media/c"
 alias mongostart="sudo service mongod start"
 alias mongostatus="sudo service mongod status"
 pserve() {
