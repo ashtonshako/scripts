@@ -55,7 +55,7 @@ if [[ "$#" -eq 0 ]]; then
 
 elif [ "$1" == '-y' ]; then
 
-  yesterday="$(date -v -1d '+%Y-%m-%d')"
+  yesterday="$(date -d "1 day ago" '+%Y-%m-%d')"
   _open_date "$yesterday"
 
 elif [ "$1" == '-f' ]; then
